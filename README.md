@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 
+## Meditate ? 🤗 : code
+### I am a passionate programmer who loves to solve problems by creating solutions that scale accordingly with the needs/time with minimal effort.
+#### I am an expert in Python as you might have noticed on my profile and some public projects. But i love to use c++ and c whenever possible. 
+#### I also love to muck around with linux -  a complicated relationship which i had for whole of my career 🐱
+
 
 <!--
 **shrinidhi666/shrinidhi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
